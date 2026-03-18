@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 locale                   : "en-US"
 title                    : "H4ckNet | Ciberseguridad y Hacking Ético"
 title_separator          : "-"
-name                     : "S4vitar"
+name                     : "JulkTriad"
 description              : "Artículos sobre ciberseguridad, CTFs e investigaciones"
-url                      : "https://s4vitar.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://JulkTriad.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "s4vitar/s4vitar.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "JulkTriad/JulkTriad.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 #logo                     : "/assets/images/masthead.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
@@ -101,8 +101,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "S4vitar"
-  avatar           : "/assets/images/avatar.png"
+  name             : "JulkTriad"
+  avatar           : "/assets/images/JulkTriad.png"
   bio              : "CyberSecurity Analyst at ElevenPaths / OSCP / OSWP / eWPTxv2 / eJPT / eCPPTv2 / CPHE / CHEE"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -112,7 +112,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "s4vitar"
+  github           : "JulkTriad"
   gitlab           :
   google_plus      :
   keybase          :
@@ -128,7 +128,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://youtube.com/c/s4vitar"
+  youtube          : "https://youtube.com"
 
 
 # Reading Files
